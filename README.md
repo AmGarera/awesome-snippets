@@ -21,6 +21,10 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 - [Chrome DevTools](https://github.com/bahmutov/code-snippets)
 - [Chrome and Firefox](https://github.com/bgrins/devtools-snippets)
 
+## Data Visualization Libraries
+
+- [D3](https://github.com/AmGarera/D3_Portfolio)
+
 ## CMS Platforms
 
 - [Wordpress](https://github.com/theandersonn/wp-snippets)
